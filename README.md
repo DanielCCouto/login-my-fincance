@@ -1,7 +1,6 @@
 # My Finance - Tema de Login
 
 <p align="center">
-  <img src="./public/logo.png" alt="My Finance Logo" width="120">
   <h1 align="center">My Finance - Sistema de Controle Financeiro Pessoal</h1>
 </p>
 
